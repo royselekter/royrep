@@ -1,1 +1,1 @@
-echo "hello"
+chmod echo "hello"
